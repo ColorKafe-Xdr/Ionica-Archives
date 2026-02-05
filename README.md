@@ -1,2 +1,3 @@
 # Ionica-Archives
-Um repo para guardar livros da plataforma ionica da FTD
+
+Um repo que esta servindo como database afim de armazenar arquivos da ionica-ftd
