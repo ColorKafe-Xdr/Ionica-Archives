@@ -1,0 +1,29 @@
+{
+    "commitState": "synced",
+    "object": {
+        "type": 5,
+        "color": "transparent",
+        "opacity": 1,
+        "strokeWidth": 6,
+        "strokeColor": "#E44234",
+        "strokeStyle": 1,
+        "flags": [
+            "print"
+        ],
+        "strokeDashArray": [],
+        "created": "2026-02-05T03:22:15.140Z",
+        "id": "af604b3e-761e-4ddb-a15b-a6418dc3c2e3",
+        "pageIndex": 0,
+        "rect": {
+            "origin": {
+                "x": 184.51943407960198,
+                "y": 205.955223880597
+            },
+            "size": {
+                "width": 287.09452736318406,
+                "height": 132.865671641791
+            }
+        },
+        "author": "Guest"
+    }
+}
