@@ -1,14 +1,17 @@
 {
-     "chsav34": {
-        "path": "/CHSA/34.pdf"
-     },
+    "object": {
+        "chsav34": {
+            "path": "/CHSA/34.pdf"
+        },
 
-    "cntv26": {
-    "path": "/CNT/26.pdf"
-    },
+        "cntv26": {
+            "path": "/CNT/26.pdf"
+        },
 
-    "lngv32": {
-        "path": "/LNG/32.pdf"
+        "lngv32": {
+            "path": "/LNG/32.pdf"
+        }
     }
+
 }
 
